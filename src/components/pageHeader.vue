@@ -1,6 +1,6 @@
 <template>
   <div class="page-head">
-    <span>可视化搭建平台</span>
+    <span>可视化搭建平台22</span>
     <el-button size="small" @click="toSchema">schema 生成器</el-button>
   </div>
 </template>

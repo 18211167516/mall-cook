@@ -6,7 +6,7 @@
     "padding": {
       "label": "上下间距",
       "type": "number",
-      "value": 0
+      "value": 10
     }
   }
 }
